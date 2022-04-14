@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DurelleAbdul
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning full stack development using javascript, HTML, and CSS
+- 🌱 I’m currently learning full stack development using javascript, MongoDB, Angular, React, HTML, and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
