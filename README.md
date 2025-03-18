@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DurelleAbdul
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently using Java, Javascript, HTML, and CSS
+- 👋 Hi, I’m Durelle
+- 🌱 I’m currently using Java, Javascript, python
 - 💞️ I’m looking to collaborate on Any open source project
 
 <!---
